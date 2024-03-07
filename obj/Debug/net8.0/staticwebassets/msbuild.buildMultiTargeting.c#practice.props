@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/c#practice.props" />
+</Project>
