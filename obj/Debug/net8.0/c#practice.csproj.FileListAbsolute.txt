@@ -31,3 +31,4 @@
 /Users/jin/Desktop/c#practice/obj/Debug/net8.0/c#practice.pdb
 /Users/jin/Desktop/c#practice/obj/Debug/net8.0/c#practice.genruntimeconfig.cache
 /Users/jin/Desktop/c#practice/obj/Debug/net8.0/ref/c#practice.dll
+/Users/jin/Desktop/c#practice/obj/Debug/net8.0/c#practice.sourcelink.json
